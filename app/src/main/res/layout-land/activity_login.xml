@@ -46,7 +46,7 @@
         android:layout_marginBottom="35dp"
         android:background="@android:drawable/button_onoff_indicator_off"
         android:text="@string/btn_login"
-        app:backgroundTint="#DA6B90"
+        app:backgroundTint="#50C878"
         app:icon="@drawable/ic_login"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

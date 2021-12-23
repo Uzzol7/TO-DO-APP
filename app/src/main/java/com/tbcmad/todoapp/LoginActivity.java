@@ -27,11 +27,11 @@ public class LoginActivity extends AppCompatActivity {
 
                 if(!userName.getText().toString().equals("uzzol")) {
                     userName.requestFocus();
-                    userName.setError("Name is in-correct");
+                    userName.setError("Invalid Username");
                     return;
                 }else if(!password.getText().toString().equals("such")){
                     password.requestFocus();
-                    password.setError("Password is in-correct");
+                    password.setError("Invalid Password");
                     return;
                 }
                 else if (userName.getText().toString().equals("") ){

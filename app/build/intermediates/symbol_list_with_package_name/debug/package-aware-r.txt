@@ -2114,6 +2114,7 @@ id textStart
 id textTop
 id textView
 id textView2
+id textView3
 id textView4
 id textView5
 id text_input_end_icon
@@ -2350,6 +2351,7 @@ string abc_toolbar_collapse_description
 string alert_cancel
 string app_name
 string appbar_scrolling_view_behavior
+string applogo
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string btn_login
@@ -2435,6 +2437,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string to_do_app
 string user_name
 string welcome
 style AlertDialog_AppCompat
