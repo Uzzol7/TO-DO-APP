@@ -20,10 +20,6 @@
         "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\drawable-hdpi\\ic_pw.png"
     },
     {
-        "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg.jpeg.flat",
-        "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\drawable-v24\\mainbg.jpeg"
-    },
-    {
         "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pw.xml.flat",
         "source": "E:\\Dma\\TO-DO-APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pw.xml"
     },
@@ -180,6 +176,10 @@
         "source": "E:\\Dma\\TO-DO-APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg.png.flat",
+        "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\drawable-v24\\mainbg.png"
+    },
+    {
         "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_list_todo1.xml.flat",
         "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\layout-land\\fragment_list_todo1.xml"
     },
@@ -190,6 +190,10 @@
     {
         "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg2.jpeg.flat",
+        "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\drawable-v24\\mainbg2.jpeg"
     },
     {
         "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_login.xml.flat",
