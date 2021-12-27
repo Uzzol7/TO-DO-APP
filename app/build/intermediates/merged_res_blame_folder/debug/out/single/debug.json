@@ -192,10 +192,6 @@
         "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainbg2.jpeg.flat",
-        "source": "E:\\Dma\\TO-DO-APP\\app\\src\\main\\res\\drawable-v24\\mainbg2.jpeg"
-    },
-    {
         "merged": "E:\\Dma\\TO-DO-APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_login.xml.flat",
         "source": "E:\\Dma\\TO-DO-APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_login.xml"
     },
